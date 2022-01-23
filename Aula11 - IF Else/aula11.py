@@ -27,7 +27,7 @@ lugar=""
 if clima=="sol" and (dinheiro>300 and dinheiro<=500):
     lugar="clube"
 else:
-    lugar="cinema"
+    lugar="cinema" 
 
 print("\nVou ao "+lugar)
 
