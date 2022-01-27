@@ -25,7 +25,7 @@ class Carro:
         else:
             print("Carro desligado")
 
-c1=Carro(200,False,"Preto") #chamando o construtor e passando os valores
+c1=Carro(200,False,"Preto") #criando o construtor e passando os valores
 c2=Carro(120,False,"Branco")
 c3=Carro(350,False,"Vermelho")
 
