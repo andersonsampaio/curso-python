@@ -13,7 +13,3 @@ print("Cor: " + c1.cor)
 estado="sim" if c1.ligado else "nao"
 print("Ligado: " + estado)
 
-r=0
-
-if r:
-    print("oidos")
